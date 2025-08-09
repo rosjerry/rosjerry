@@ -2,7 +2,7 @@
 
 I used to have a bad habit.  
 Whenever I researched something new, I would create a local directory, extract what I found important, and then either forget about it or delete it.  
-Because of that, I ended up forgetting many things I had learned. I lost time remembering them fro scratch.
+Because of that, I ended up forgetting many things I had learned. I lost time remembering them from scratch.
 
 Now I’ve decided to change that by customizing my GitHub profile to fit my needs.
 
