@@ -85,6 +85,6 @@ Developed a high-impact digital gateway designed to unify a complex business mod
 
 <br>
 
-Or you can take a look to my public [repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories).
+Or you can take a look to my public [repositories](https://github.com/rosjerry?tab=repositories).
 
 You can contact me on [Linkedin](https://www.linkedin.com/in/rostomi-kutchukhidze/) and on [Email](mailto:rostomi1306@gmail.com).
