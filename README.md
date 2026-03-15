@@ -23,7 +23,7 @@ Developed a high-performance, user-adaptive SaaS dashboard for an international 
 
 <p align="center">
   <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/2117e8cf-d7cf-4a94-b568-bfc51c259903" width="49%" style="vertical-align: middle;" alt="OMOFOX Dashboard 1" />
-  <img src="https://i.postimg.cc/vmfB8f7z/Screenshot-2026-03-16-015554.png" width="49%" style="vertical-align: middle;" alt="OMOFOX Dashboard 2" />
+  <img src="https://camo.githubusercontent.com/5139e34727057841d5e9a64ba6cb94b0d544b3b669175f6ffec473427c33c69e/68747470733a2f2f692e706f7374696d672e63632f766d66423866377a2f53637265656e73686f742d323032362d30332d31362d3031353535342e706e67" width="49%" style="vertical-align: middle;" alt="OMOFOX Dashboard 2" />
 </p>
 
 
