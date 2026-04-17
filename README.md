@@ -77,8 +77,8 @@ Developed the primary digital infrastructure for a landmark tech event, focusing
 Developed a high-impact digital gateway designed to unify a complex business model. By creating a seamless interface for both the company’s service-based operations and its SaaS product, I directly accelerated lead generation for the sales and dispatch teams. The platform acted as a central conversion hub, successfully translating web traffic into measurable engagement for the company’s dual revenue streams.
 
 <p align="center">
-  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/bd245efc-1f61-4330-ba69-9ad9ff8be50a" width="49%" style="vertical-align: middle;" alt="OMOFOX.COM Preview 1" />
-  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/354827df-679f-48e0-b06b-f5f855b6e682" width="49%" style="vertical-align: middle;" alt="OMOFOX.COM Preview 2" />
+  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/fb93e2a4-27c6-413c-af59-26e49dd08753" width="49%" style="vertical-align: middle;" alt="OMOFOX.COM Preview 1" />
+  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/b19cb8a6-8555-49f7-a593-850baf41cfa5" width="49%" style="vertical-align: middle;" alt="OMOFOX.COM Preview 2" />
 </p>
 
 </details>
