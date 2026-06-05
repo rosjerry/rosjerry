@@ -12,6 +12,23 @@ Most of my works are proprietary but...
 ### 💼 You can take a look on my featured portfolio items
 
 <details>
+<summary><strong>📊 Multi212.app ERP-Lite console</strong></summary>
+
+<br>
+
+**Role:** Lead Engineer  
+**Tech Stack:** Fastify | Amazon Lightsail | Amazon Cognito | Docker Compose | Next.js | Hasura  
+
+Built an ERP-Lite inventory, commerce, and logistics tracking dashboard that helps importers and dealers measure supply, expenses, income, profits, and goods transportation. The platform is tailored for both solopreneurs and teams. You can check it out at [multi212.app](https://multi212.app).
+
+<p align="center">
+  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/e1800029-65a2-4314-a470-5c56740f7d76" width="49%" style="vertical-align: middle;" alt="Multi212.app Preview 1" />
+  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/c6cd7421-eb3f-4e9f-9571-115ce9cdc9a3" width="49%" style="vertical-align: middle;" alt="Multi212.app Preview 2" />
+</p>
+
+</details>
+
+<details>
 <summary><strong>🚛 OMOFOX Transportation Dashboard</strong></summary>
 
 <br>
