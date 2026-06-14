@@ -12,6 +12,31 @@ Most of my works are proprietary but...
 ### 💼 You can take a look on my featured portfolio items
 
 <details>
+<summary><strong>📱 Multi212 Android App</strong></summary>
+
+<br>
+
+**Role:** Lead Engineer  
+**Tech Stack:** React Native | Expo | JavaScript  
+
+Built a lightweight ERP-Lite Android app for managing commerce, logistics, and inventory on the go. The mobile workspace helps importers and dealers handle products, sales, purchases, and stock movements across multiple warehouses—without the overhead of a full enterprise ERP. Tailored for both solopreneurs and teams. Source code is available on [Codeberg](https://codeberg.org/rostomi/multi212); pre-built APKs can be downloaded from the [Releases](https://codeberg.org/rostomi/multi212/releases) page.
+
+<p align="center">
+  <img src="docs/screenshots/login.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Login" />
+  <img src="docs/screenshots/home.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Home" />
+  <img src="docs/screenshots/products.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Products" />
+  <img src="docs/screenshots/sale-detail.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Sale detail" />
+</p>
+<p align="center" style="margin-top: 8px;">
+  <img src="docs/screenshots/purchase-detail.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Purchase detail" />
+  <img src="docs/screenshots/supply-movements.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Supply movements" />
+  <img src="docs/screenshots/supply-by-product.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Supply by product" />
+  <img src="docs/screenshots/search-results.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Search results" />
+</p>
+
+</details>
+
+<details>
 <summary><strong>📊 Multi212.app ERP-Lite console</strong></summary>
 
 <br>
