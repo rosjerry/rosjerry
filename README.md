@@ -44,7 +44,7 @@ Built a lightweight ERP-Lite Android app for managing commerce, logistics, and i
 **Role:** Lead Engineer  
 **Tech Stack:** Fastify | Amazon Lightsail | Amazon Cognito | Docker Compose | Next.js | Hasura  
 
-Built an ERP-Lite inventory, commerce, and logistics tracking dashboard that helps importers and dealers measure supply, expenses, income, profits, and goods transportation. The platform is tailored for both solopreneurs and teams. You can check it out at [https://github.com/rosjerry/multi212](Github Repo) or [multi212.app](https://multi212.app).
+Built an ERP-Lite inventory, commerce, and logistics tracking dashboard that helps importers and dealers measure supply, expenses, income, profits, and goods transportation. The platform is tailored for both solopreneurs and teams. You can check it out at [Github Repo](https://github.com/rosjerry/multi212) or [multi212.app](https://multi212.app).
 
 <p align="center">
   <img src="docs/screenshots/multi212_webapp/overview.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Multi212.app overview" />
