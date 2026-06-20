@@ -22,16 +22,16 @@ Most of my works are proprietary but...
 Built a lightweight ERP-Lite Android app for managing commerce, logistics, and inventory on the go. The mobile workspace helps importers and dealers handle products, sales, purchases, and stock movements across multiple warehouses—without the overhead of a full enterprise ERP. Tailored for both solopreneurs and teams. Source code is available on [Codeberg](https://codeberg.org/rostomi/multi212); pre-built APKs can be downloaded from the [Releases](https://codeberg.org/rostomi/multi212/releases) page.
 
 <p align="center">
-  <img src="docs/screenshots/login.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Login" />
-  <img src="docs/screenshots/home.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Home" />
-  <img src="docs/screenshots/products.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Products" />
-  <img src="docs/screenshots/sale-detail.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Sale detail" />
+  <img src="docs/screenshots/multi212_android/login.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Login" />
+  <img src="docs/screenshots/multi212_android/home.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Home" />
+  <img src="docs/screenshots/multi212_android/products.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Products" />
+  <img src="docs/screenshots/multi212_android/sale-detail.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Sale detail" />
 </p>
 <p align="center" style="margin-top: 8px;">
-  <img src="docs/screenshots/purchase-detail.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Purchase detail" />
-  <img src="docs/screenshots/supply-movements.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Supply movements" />
-  <img src="docs/screenshots/supply-by-product.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Supply by product" />
-  <img src="docs/screenshots/search-results.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Search results" />
+  <img src="docs/screenshots/multi212_android/purchase-detail.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Purchase detail" />
+  <img src="docs/screenshots/multi212_android/supply-movements.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Supply movements" />
+  <img src="docs/screenshots/multi212_android/supply-by-product.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Supply by product" />
+  <img src="docs/screenshots/multi212_android/search-results.png" width="23%" style="margin: 4px; vertical-align: middle;" alt="Search results" />
 </p>
 
 </details>
@@ -47,8 +47,14 @@ Built a lightweight ERP-Lite Android app for managing commerce, logistics, and i
 Built an ERP-Lite inventory, commerce, and logistics tracking dashboard that helps importers and dealers measure supply, expenses, income, profits, and goods transportation. The platform is tailored for both solopreneurs and teams. You can check it out at [multi212.app](https://multi212.app).
 
 <p align="center">
-  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/e1800029-65a2-4314-a470-5c56740f7d76" width="49%" style="vertical-align: middle;" alt="Multi212.app Preview 1" />
-  <img src="https://www.upwork.com/att/download/portfolio/persons/uid/1209545897349390336/profile/projects/files/c6cd7421-eb3f-4e9f-9571-115ce9cdc9a3" width="49%" style="vertical-align: middle;" alt="Multi212.app Preview 2" />
+  <img src="docs/screenshots/multi212_webapp/overview.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Multi212.app overview" />
+  <img src="docs/screenshots/multi212_webapp/purchase-detail.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Purchase order detail" />
+  <img src="docs/screenshots/multi212_webapp/supply-by-product.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Supply by products visualization" />
+</p>
+<p align="center" style="margin-top: 8px;">
+  <img src="docs/screenshots/multi212_webapp/supply-movements.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Supply movements" />
+  <img src="docs/screenshots/multi212_webapp/dashboard.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Dashboard" />
+  <img src="docs/screenshots/multi212_webapp/product-detail.png" width="31%" style="margin: 4px; vertical-align: middle;" alt="Product detail" />
 </p>
 
 </details>
